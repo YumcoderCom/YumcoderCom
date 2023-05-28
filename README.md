@@ -14,9 +14,8 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-          
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/android-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+         
           
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
