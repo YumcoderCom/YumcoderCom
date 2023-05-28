@@ -39,7 +39,7 @@ I am a highly motivated and results-oriented individual with a strong work ethic
 ---
 
 ### My Current Favorite Collaboration
-- 👯 I’m looking to collaborate on developent on block-chian or social network with Rust or Golang
+- 👯 I’m looking to collaborate on developent of block-chian or social network project with Rust, Golang, Reactjs or Flutter
 
 ### Contact:
 - 📫 How to reach me: 
