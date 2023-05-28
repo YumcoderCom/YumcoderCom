@@ -48,6 +48,10 @@ I am a highly motivated and results-oriented individual with a strong work ethic
   - Omid.jn[AT]gmail.Com
   - o.jafarinezhad[AT]mail.utoronto.ca 
 
+[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://media.giphy.com/media/l46Cq6Bro9CsP149q/giphy.gif)
+
+
+
 <!--
 **YumcoderCom/YumcoderCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
