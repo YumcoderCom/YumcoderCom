@@ -10,7 +10,7 @@
 
 ### About Me
 
-I am an experienced software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 15 years of experience in web and mobile programming. I have a proven track record of success in architecting, developing, and implementing high-quality software applications. I am proficient in a variety of programming languages and technologies, including Go, Rust, Android(Java), Flutter, JavaScript, and SQL. 
+I am an experienced software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 15 years of experience in web and mobile programming. I have a proven track record of success in architecting, developing, and implementing high-quality software applications. I am proficient in a variety of programming languages and technologies, including Go, Rust, Android(Java), Flutter, Nodejs(Parse-Server), JavaScript, and SQL. 
 
 I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am able to work effectively with others to achieve common goals. I am confident that I have the skills and experience necessary to be successful in a web or mobile development role.
 
