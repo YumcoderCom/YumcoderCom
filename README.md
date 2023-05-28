@@ -50,7 +50,7 @@ I am a highly motivated and results-oriented individual with a strong work ethic
   - [Web Programming Channel](https://t.me/sharif_web_programming)
   - [Rust Dev Group](https://t.me/Rust_Dev)
 - 📫 I can be reached by email at: 
-  - Omid.jn [AT] gmail.Com
+  - Omid.jn [AT] gmail.com
   - o.jafarinezhad [AT] mail.utoronto.ca 
 
 <!--
