@@ -2,8 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
 
 I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working in web and mobile apps development.
