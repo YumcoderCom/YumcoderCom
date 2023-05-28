@@ -49,8 +49,8 @@ I am a highly motivated and results-oriented individual with a strong work ethic
   - [Telegram](https://t.me/yumcoder), 
   - [Telegram_Web_Channel](https://t.me/sharif_web_programming)
 - 📫 I can be reached by email at: 
-  - Omid.jn[AT]gmail.Com
-  - o.jafarinezhad[AT]mail.utoronto.ca 
+  - Omid.jn [AT] gmail.Com
+  - o.jafarinezhad [AT] mail.utoronto.ca 
 
 <!--
 **YumcoderCom/YumcoderCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
