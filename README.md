@@ -42,10 +42,10 @@ I am a highly motivated and results-oriented individual with a strong work ethic
 - 👯 I’m looking to collaborate on developent of block-chian or social network project with Rust, Golang, Reactjs or Flutter
 
 ### Contact:
-- How to reach me on Telegram: 
+- You can message me on Telegram: 
   - [Telegram](https://t.me/yumcoder), 
   - [Telegram_Web_Channel](https://t.me/sharif_web_programming)
-- 📫 Or By email : 
+- 📫 I can be reached by email at: 
   - Omid.jn[AT]gmail.Com
   - o.jafarinezhad[AT]mail.utoronto.ca 
 
