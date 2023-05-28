@@ -40,7 +40,7 @@ I am a highly motivated and results-oriented individual with a strong work ethic
 
 ---
 
-### My Current Favorite Collaboration
+### Favorite Collaboration
 - 👯 I’m looking to collaborate on developent of blockchain or social network projects with Rust, Golang, Reactjs or Flutter
 
 ---
