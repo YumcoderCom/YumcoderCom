@@ -13,10 +13,10 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="React" alt="GoLang" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="React" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" alt="GoLang" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="React" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;  
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   
@@ -25,7 +25,8 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MySQL"  alt="Postgresql" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
   
 </div>
 
