@@ -46,7 +46,7 @@ I am a highly motivated and results-oriented individual with a strong work ethic
 ---
 ### Contact:
 - You can message me on Telegram: 
-  - [Telegram](https://t.me/yumcoder), 
+  - [Telegram](https://t.me/yumcoder)
   - [Telegram_Web_Channel](https://t.me/sharif_web_programming)
 - 📫 I can be reached by email at: 
   - Omid.jn [AT] gmail.Com
