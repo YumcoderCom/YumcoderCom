@@ -14,7 +14,7 @@ I am an experienced software developer <img src="https://media.giphy.com/media/W
 
 I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am able to work effectively with others to achieve common goals. I am confident that I have the skills and experience necessary to be successful in a web or mobile development role.
 
-**Yumcoder** is a combination of the words "yum" and "coder". Yum is a Japanese word that means "delicious". So, Yumcoder could be interpreted as "_delicious coder_" or "_coder who creates delicious things_". It also is a play on words, as "yum" can also be used as an exclamation of satisfaction. In this case, Yumcoder could be interpreted as "_coder who creates things that are satisfying_".
+**Yumcoder** is a combination of the words "yum" and "coder". Yum is a word that means "delicious". So, Yumcoder could be interpreted as "_delicious coder_" or "_coder who creates delicious things_". It also is a play on words, as "yum" can also be used as an exclamation of satisfaction. In this case, Yumcoder could be interpreted as "_coder who creates things that are satisfying_".
 
 ---
 
@@ -41,7 +41,7 @@ I am a highly motivated and results-oriented individual with a strong work ethic
 ---
 
 ### Favorite Collaboration
-- 👯 I’m looking to collaborate on developent of blockchain or social network projects with Rust, Golang, Reactjs or Flutter
+- 👯 I’m looking to collaborate on development of blockchain or social network projects with Rust, Golang, Reactjs or Flutter
 
 ---
 ### Contact:
